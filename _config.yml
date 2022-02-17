@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Haein Lee"
-resume_title:                   "M.S. Student in hacking lab"
+resume_title:                   "M.S. Student in KAIST hacking lab"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "qpwoei4916@gmail.com"
