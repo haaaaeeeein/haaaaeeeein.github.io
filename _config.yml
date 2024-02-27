@@ -23,7 +23,7 @@ resume_contact_email:           "qpwoei4916@gmail.com"
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 # display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi! I am very interested in computer science, especially security.</p>"
+resume_header_intro: "<p>Hi! I'm interested in system security, including software security, bug finding and exploit generation. Currently, I concentrate on patch generation using LLM and browser renderer AEG.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,13 +45,13 @@ resume_section_links:           true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/haaaaeeeein/haaaaeeeein.github.io"
+  resume_github_url:            "https://github.com/haaeein/haaeein.github.io"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://haaaaeeeein.github.io"
+  resume_website_url:           "http://haaeein.github.io"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
