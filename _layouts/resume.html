@@ -215,6 +215,46 @@
       <!-- end Links -->
       {% endif %}
 
+      {% if site.resume_section_awards %}
+      <!-- begin Awards -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Awards</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for award in site.data.awards %}
+            <li>{{ award.description }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Awards -->
+      {% endif %}
+
+      {% if site.resume_section_bug_reports %}
+      <!-- begin Bug Reports -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Bug Reports</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for bug_report in site.data.bug_reports %}
+            <li>{{ bug_report.description }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Bug Reports -->
+      {% endif %}
+
       {% if site.resume_print_social_links %}
       <!-- begin Print Social Links -->
       <section class="content-section print-only">
