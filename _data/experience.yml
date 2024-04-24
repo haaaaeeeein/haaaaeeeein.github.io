@@ -1,13 +1,13 @@
 # Jobs
 # EntreReality
-- company: EntreReality
-  position: Intern
-  duration: Sep, 2021 &mdash; Jan, 2022
-  summary: Our team created a web-based metaverse that allows users to talk and interact on video. I was in charge of the backend part of communicating video data using webRTC. 
+#- company: EntreReality
+#  position: Intern
+#  duration: Sep, 2021 &mdash; Jan, 2022
+#  summary: Our team created a web-based metaverse that allows users to talk and interact on video. I was in charge of the backend part of communicating video data using webRTC. 
 
 # InBody
-- company: InBody
-  position: Intern
-  duration:  Aug, 2020 &mdash; Feb, 2021
-  summary: Our team made the process of passing through the InBody exhibition hall through face recognition and logging in the InBody machine with face recognition. I configured a face recognition system, a IoT device that helps open and close the door by face recognition, and a network linked to the InBody device.
+#- company: InBody
+#  position: Intern
+#  duration:  Aug, 2020 &mdash; Feb, 2021
+#  summary: Our team made the process of passing through the InBody exhibition hall through face recognition and logging in the InBody machine with face recognition. I configured a face recognition system, a IoT device that helps open and close the door by face recognition, and a network linked to the InBody device.
 
