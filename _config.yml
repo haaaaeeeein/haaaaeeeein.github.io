@@ -41,7 +41,6 @@ resume_section_education:       true
 resume_section_links:           true
 # resume_section_associations:    true
 # resume_section_interests:       true
-resume_section_awards:          true
 resume_section_bug_reports:     true
 
 # Resume social links
