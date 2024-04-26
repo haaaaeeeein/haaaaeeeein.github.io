@@ -23,7 +23,7 @@ resume_contact_email:           "qpwoei4916@gmail.com"
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 # display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi! I'm interested in system security, including software security, bug finding and exploit generation. Currently, I concentrate on patch generation using LLM and browser renderer AEG.</p>"
+resume_header_intro: "<p>Hi! I'm interested in system security, including software security, bug finding and exploit generation. Currently, I concentrate on patch generation using LLM.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
