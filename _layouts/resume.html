@@ -215,6 +215,26 @@
       <!-- end Bug Reports -->
       {% endif %}
 
+      {% if site.resume_section_talks %}
+      <!-- begin Talks -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Talks</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for talk in site.data.talks %}
+            <li>{{ talk.title }}, {{ talk.event }}, {{ talk.location }}, {{ talk.date }}.</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Talks -->
+      {% endif %}
+
       {% if site.resume_section_links %}
       <!-- begin Links -->
       <section class="content-section">
